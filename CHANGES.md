@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.17.1](https://www.github.com/contiamo/openapi-generator-go/compare/v0.17.0...v0.17.1) (2022-08-25)
+
+
+### Bug Fixes
+
+* move main to the project root ([#81](https://www.github.com/contiamo/openapi-generator-go/issues/81)) ([0d60d72](https://www.github.com/contiamo/openapi-generator-go/commit/0d60d72ef9e3105413fba06669773b9858bd9025))
+
 ## [0.17.0](https://www.github.com/contiamo/openapi-generator-go/compare/v0.16.0...v0.17.0) (2022-04-19)
 
 
